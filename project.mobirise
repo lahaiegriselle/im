@@ -63,20 +63,14 @@
     "cookiesAlert": {
       "customDialogSelector": true,
       "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorBg": "#cc2952",
       "colorButton": "",
       "colorLink": "#424a4d",
-      "underlineLink": true,
+      "underlineLink": false,
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "Nous utilisons des cookies pour vous offrir la meilleure expérience ",
       "textButton": "OK"
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "En continuant, vous acceptez nos  Conditions d'utilisation et de confidentialité </a>."
     },
     "uniqCompNum": 41,
     "versionPublish": "4.12.4",
@@ -90,7 +84,8 @@
     "lazyType": "nothing",
     "pwa-switcher": false,
     "witsec-white-label": false,
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
